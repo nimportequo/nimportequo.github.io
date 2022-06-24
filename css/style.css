@@ -1,0 +1,88 @@
+.lw {
+      font-size: 60px;
+}
+
+h1 {
+  color: DarkRed;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 300%;
+  text-align: center;
+}
+
+h2 {
+    font-size: 175%;
+    text-align: center;
+}
+
+
+h3 {
+    font-size: 125%;
+    text-align: center;
+}
+
+.contenu {
+      font-size: 115%;
+      text-align: center;
+}
+
+
+ul {
+  font-size: 115%;
+  margin: auto 35%;
+}
+
+#puce2 {
+  font-size: 115%;
+  margin: auto 40%;
+}
+
+
+ol {
+  font-size: 115%;
+  margin: auto 35%;
+}
+
+
+p {
+  font-size: 115%;
+  text-align: center;
+}
+
+
+#imgtitre {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+img {
+    display: block;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+#hulk2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+#steve2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
